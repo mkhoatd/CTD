@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "__hash_table": "cpp",
+        "__tuple": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "locale": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "__config": "cpp"
+    }
+}
